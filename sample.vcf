@@ -1,0 +1,4 @@
+##fileformat=VCFv4.2
+##source=PharmaGuardDemo
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+1	123456	.	A	G	.	PASS	.
